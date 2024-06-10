@@ -1,0 +1,8 @@
+Files for the classification project:
+
+-KNN
+-Naive Bayes
+-Random Forests 
+-Logistic regression
+-Decision Trees
+-Encoding
